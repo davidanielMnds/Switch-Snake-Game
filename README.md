@@ -2,6 +2,11 @@
 
 Jogo estilo **Snake** desenvolvido em **Java Swing**, com interface inspirada no **Nintendo Switch**. O personagem se move pelo visor com animação por sprite sheet, come itens e cresce a cada coleta. A estrutura visual simula o console físico completo, com botões clicáveis e navegação entre telas.
 
+<img width="1016" height="492" alt="Screenshot_20" src="https://github.com/user-attachments/assets/39c7bc7e-53bd-4dfa-947b-c64913d86f2d" />
+<img width="1011" height="494" alt="Screenshot_21" src="https://github.com/user-attachments/assets/0c5a3dbb-988d-4d97-9e95-50e452595661" />
+<img width="1011" height="490" alt="Screenshot_23" src="https://github.com/user-attachments/assets/98f12673-7e0c-4989-9620-df74f0f2a2d2" />
+
+
 ---
 
 ## ✨ Funcionalidades
